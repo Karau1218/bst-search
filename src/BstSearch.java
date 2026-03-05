@@ -28,5 +28,6 @@ public class BstSearch {
 
     } else { 
         return contains(root.right, target);
+     }
     }
 }
